@@ -4,3 +4,8 @@ El directorio tests se encuentra en la raíz del proyecto con un único archivo 
 
 * Uso de un directorio tests para colocar archivos de prueba y directorios de pruebas anidados
 * Prefijo de archivos de prueba con test. El prefijo indica que el archivo contiene código de prueba.
+
+## Comandos
+```pip install pytest``` Installar Pytest
+
+```pytest``` Para correr los test
